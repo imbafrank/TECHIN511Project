@@ -1,7 +1,7 @@
-## Beer Pouring Master Tool
+## Beer Pouring Master Tool 
 
 <video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
+      <source id="mp4" src="https://youtu.be/9Lmvv6-jLMY" type="video/mp4">
       <source id="webm" src="http://media.w3.org/2010/05/sintel/trailer.webm" type="video/webm">
       <source id="ogv" src="http://media.w3.org/2010/05/sintel/trailer.ogv" type="video/ogg">
       <p>Your user agent does not support the HTML5 Video element.</p>
@@ -9,14 +9,13 @@
 
 **Youtube**
 
+
 {% https://youtu.be/9Lmvv6-jLMY %}
 
 
 
 
-
-
-## Welcome to GitHub Pages 1234
+## Welcome to GitHub Pages123
 
 You can use the [editor on GitHub](https://github.com/imbafrank/TECHIN511Project.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
