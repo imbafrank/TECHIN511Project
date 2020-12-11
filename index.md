@@ -1,4 +1,4 @@
-## Beer Pouring Master Tool
+## Beer Pouring Master Tool 
 
 <video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
       <source id="mp4" src="https://youtu.be/9Lmvv6-jLMY" type="video/mp4">
@@ -15,7 +15,7 @@
 
 
 
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages123
 
 You can use the [editor on GitHub](https://github.com/imbafrank/TECHIN511Project.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
